@@ -1,4 +1,5 @@
 # spotify-etl-pipeline
+Author - Sarthak Hans
 
 ## Description
 This repository contains the code and documentation for an end-to-end data engineering project, which aims to implement a complete data pipeline using the Spotify API to extract data, process it, and analyze it for insights.
